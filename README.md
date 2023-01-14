@@ -46,4 +46,8 @@ Gari Sahayak is a data analytics web app that helps the client to solve their qu
 
 ![image](https://user-images.githubusercontent.com/76087547/170767716-7cfaf1e7-1aa3-4fc6-8442-ff1ac5e1d882.png)
 
+- Predict the km's driven by writing the paramters given in the form.
+
+![image](https://user-images.githubusercontent.com/76087547/170816529-573ee080-a41b-48a4-95ce-cdf7ffe5804f.png)
+
 
